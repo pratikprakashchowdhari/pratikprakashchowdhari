@@ -4,7 +4,7 @@
 
 ❤💪🏽🏃🏽‍♂️ Learning to live a healthy life.
 
-📫 How to reach me officialmailofpratik@gmail.com
+📫 How to reach me? ✍🏽officialmailofpratik@gmail.com
 
 ⚡ Language: Python3 
 
