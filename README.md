@@ -1,6 +1,6 @@
 🌱 CSE Student at Ajeenkya D. Y. Patil School of Engineering and Technology
 
-📚 Domain: Field of Data Science, Artificial Intelligence & Machine Learning
+📚 Domain: Data Science, Artificial Intelligence & Machine Learning
 
 ❤💪🏽🏃🏽‍♂️ Learning to live a healthy life.
 
