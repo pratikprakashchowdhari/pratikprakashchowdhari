@@ -4,7 +4,7 @@
 
 📫 Reach me? ✍🏽officialmailofpratik@gmail.com
 
-⚡ Language: Python3 
+⚡ Language: Python3, SQL
 
 👨‍💼 Linkedin: www.linkedin.com/in/pratik-chowdhari-8039b1238
 
